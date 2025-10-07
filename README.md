@@ -17,3 +17,4 @@ ramita2
 ramita3
 # prueba de sincronizacion
 probando gitpush
+# prueba pull
