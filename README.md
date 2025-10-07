@@ -15,3 +15,5 @@ usar github, creando ramas y merge entre ellas, con creación de archivos y comm
 ramita1
 ramita2
 ramita3
+# prueba de sincronizacion
+probando gitpush
